@@ -1,1 +1,8 @@
+# 実行ファイル
 app/
+main.cpp
+*.exe
+*.o
+
+# vscode
+.vscode/
